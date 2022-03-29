@@ -14,5 +14,13 @@
         "psr-4": {
             "App\\": "app/"
         }
-    }
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "ermolinme",
+            "email": "ermolinme@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev"
 }
