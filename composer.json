@@ -22,5 +22,5 @@
             "email": "ermolinme@gmail.com"
         }
     ],
-    "minimum-stability": "dev"
+    "minimum-stability": "stable"
 }
