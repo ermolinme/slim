@@ -3,6 +3,7 @@ namespace App;
 
 class Config 
 {
-    const VIEWS_DIR = __DIR__ . '/../app/views';
-    const VIEWS_CACHE = __DIR__ . '/../storage/cache';
+    const VIEWS_DIR = 'views';
+    const VIEWS_CACHE = 'storage/cache';
+    const LOG_FILE = 'storage/logs/app.log';
 }
