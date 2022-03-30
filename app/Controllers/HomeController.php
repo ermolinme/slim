@@ -11,10 +11,4 @@ class HomeController
         $response->getBody()->write(view('index'));
         return $response;
     }
-
-    public function admin(Request $request, Response $response)
-    {
-        $response->getBody()->write('admin');
-        return $response;
-    }
 }
