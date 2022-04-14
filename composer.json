@@ -9,7 +9,9 @@
         "guzzlehttp/psr7": "^2",
         "laminas/laminas-diactoros": "^2.8",
         "jenssegers/blade": "^1.4",
-        "monolog/monolog": "2.x-dev"
+        "monolog/monolog": "2.x-dev",
+        "zeuxisoo/slim-whoops": " 0.7.x-dev",
+        "vlucas/phpdotenv": "5.4.x-dev"
     },
     "autoload": {
         "psr-4": {
